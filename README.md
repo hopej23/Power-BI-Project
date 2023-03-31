@@ -23,7 +23,7 @@ Therefore, to be able to do this we need to:
 - Power BI Dashboard
 
 ## Visualization 
-- The Report is comprises of:
+ The Report is comprises of:
 - Raw data on Excel power query
 - Power BI page for visual
 - Dashboard 
